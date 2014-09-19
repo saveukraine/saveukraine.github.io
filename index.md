@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Save Ukraine!
+title: Save Ukraine
 ---
 {% include JB/setup %}
 
