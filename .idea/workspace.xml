@@ -7,7 +7,7 @@
     <ignored path="saveukraine.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411294952150" ignored="false" />
-    <file path="/index.md" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411295314429" ignored="false" />
+    <file path="/index.md" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411295628395" ignored="false" />
     <file path="/style.css" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411158698478" ignored="false" />
     <file path="/page.html" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411159341608" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +32,7 @@
       <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="0" selection-start="3763" selection-end="3763" vertical-scroll-proportion="0.88056207">
+            <state line="59" column="8" selection-start="3691" selection-end="3691" vertical-scroll-proportion="0.7412178">
               <folding />
             </state>
           </provider>
@@ -623,7 +623,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="0" selection-start="3763" selection-end="3763" vertical-scroll-proportion="0.88056207">
+        <state line="59" column="8" selection-start="3691" selection-end="3691" vertical-scroll-proportion="0.7412178">
           <folding />
         </state>
       </provider>

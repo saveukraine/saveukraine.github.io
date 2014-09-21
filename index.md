@@ -57,8 +57,10 @@ title: Save Ukraine
 
 ---
 
-Contact: saveukraineapp@gmail.com
+Contacts:
 
-Fb: https://www.facebook.com/SaveUkraineGame
+Fb: [https://www.facebook.com/SaveUkraineGame](https://www.facebook.com/SaveUkraineGame)
 
-Vk: http://vk.com/saveukrainegame
+Vk: [http://vk.com/saveukrainegame](http://vk.com/saveukrainegame)
+
+saveukraineapp@gmail.com
