@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="02a8a383-3228-4fb4-ae87-db4b63ead673" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="saveukraine.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411368367016" ignored="false" />
-    <file path="/index.md" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411368996150" ignored="false" />
+    <file path="/Dummy.txt" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411664678139" ignored="false" />
+    <file path="/index.md" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411665340183" ignored="false" />
     <file path="/style.css" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411158698478" ignored="false" />
     <file path="/page.html" changelist="02a8a383-3228-4fb4-ae87-db4b63ead673" time="1411159341608" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +33,7 @@
       <file leaf-file-name="index.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="503" selection-end="503" vertical-scroll-proportion="0.25058547">
+            <state line="59" column="168" selection-start="3909" selection-end="3909" vertical-scroll-proportion="0.6967213">
               <folding />
             </state>
           </provider>
@@ -160,6 +161,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -380,7 +382,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -389,8 +390,8 @@
     <property name="options.lastSelected" value="web-ide.project.structure" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -623,7 +624,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="503" selection-end="503" vertical-scroll-proportion="0.25058547">
+        <state line="59" column="168" selection-start="3909" selection-end="3909" vertical-scroll-proportion="0.6967213">
           <folding />
         </state>
       </provider>

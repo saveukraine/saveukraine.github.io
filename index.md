@@ -21,19 +21,23 @@ title: Save Ukraine
 ---
 
 #####[russian]
+&nbsp;&nbsp;&nbsp;&nbsp;Привет, меня зовут Игорь, я родом из Славянска. Мы с друзьями сделали небольшую патриотичную игру которую я хочу предложить тебе попробовать.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**П**ривет, меня зовут Игорь. Мы с друзьями сделали жизненную и патриотичную игру которую я хочу предложить тебе попробовать.
+&nbsp;&nbsp;&nbsp;&nbsp;Игра называется Спаси Украину, а сюжет игры вам покажется знакомым. На уютную украинскую хатку неожиданно нападают неопознанные зелёные человечки с оружием в руках. Её жители оказались не готовы к такому повороту событий, поэтому, из оружия для защиты родного дома нашёлся только старый урожай тыкв. Тем не менее, в руках отважных жителей, одним точным попаданием такого снаряда обезвреживается сразу несколько зелёных негодяев, а то и целая бронированная машина.
 
+&nbsp;&nbsp;&nbsp;&nbsp;К слову, все разработчики игры - коренные жители самых "горячих" городов Донбасса. Я из Славянска, друзья из Горловки и Донецка. Мы сделали игру на чистом энтузиазме и создавая её у нас было несколько целей:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**И**гра называется Спаси Украину. Твоя задача - защитить уютную украинскую хатку от нашествия неопознанных и злых зелёных солдат. Как это бывает, из оружия в твоём распоряжении есть только урожай созревших тыкв, "стиглих гарбузiв", по-украински. Тем не менее, в умелых руках одной такой тыквой можно обезвредить сразу несколько зелёных негодяев, или даже одну машину "Тигр". Найдя свою тактику и набив руку ты сможешь заработать 100 000 очков и пройти игру.
+&nbsp;&nbsp;&nbsp;&nbsp;Во-первых, сделать интересную игру, в которой можно наслаждаться ударом тыквы о лицо оккупанта.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**К** слову, все разработчики из самых "горячих" городов Донецкой области. Я из Славянска, а друзья из Горловки и Донецка.
+&nbsp;&nbsp;&nbsp;&nbsp;Во-вторых, еще раз сказать, что Украина - единая страна от запада до востока.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**В** данный момент готова версия игры для Андроид устройств. Скачать и играть в неё можно бесплатно в Google Play: [https://play.google.com/store/apps/details?id=com.xdapps.su](https://play.google.com/store/apps/details?id=com.xdapps.su)
+&nbsp;&nbsp;&nbsp;&nbsp;И в третьих, мы хотим, чтобы у жителей всех других стран на экране смартфона, или планшета, всегда было наглядное и простое представление о том, что тут в реальности происходит. Чтобы не давать промыть им мозги многомиллиардной машине пропаганды, на известных каналах.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**P**S Помоги распространить игру и это сообщение, во-первых среди украинцев, чтобы каждый человек в нашей стране знал, что Украина - единая страна от востока до запада, во-вторых - среди иностранцев, чтобы каждый американец, европеец, японец и все остальные увидели, прочувствовали на себе и не сомневались в том, что происходит в Украине на самом деле.
+&nbsp;&nbsp;&nbsp;&nbsp;На данный момент готова версия для Android устройств. Скачать можно бесплатно в Google Play: [https://play.google.com/store/apps/details?id=com.xdapps.su](https://play.google.com/store/apps/details?id=com.xdapps.su)
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Т**екст на других языках - на сайте игры: [http://saveukraine.github.io](http://saveukraine.github.io)
+&nbsp;&nbsp;&nbsp;&nbsp;Если поддерживаете - распространяйте это сообщение и игру репостами, и другими способами.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Текст на другом языке и новости о игре вы сможете найти на [http://saveukraine.github.io/](http://saveukraine.github.io/)
 
 <img src="{{ site.url }}/assets/screens/MainMenuUkr.png" width="300" height="200">
 <img src="{{ site.url }}/assets/screens/ShotUkr.png" width="300" height="200">
@@ -41,17 +45,23 @@ title: Save Ukraine
 ---
 
 #####[english]
-&nbsp;&nbsp;&nbsp;&nbsp;**H**i, my name is Igor and I've made a game with my friends on actual topics of Ukrainian events and I want to suggest you to play it.
+&nbsp;&nbsp;&nbsp;&nbsp;Hi ! My name is Igor and I'm from the city of Slovyansk (Ukraine). With friends we've made a small game which I want to suggest you to play.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**T**he game is called "Save Ukraine". Your goal is to defend the cozy Ukrainian house (or "khata" in ukrainian) from the invasion of unidentified green angry soldiers. As it happens the only weapon you have is a crop of fresh ripe pumpkins. Nevertheless in good hands this could be a very effective measure against the attackers - a precise shot can neutralize one or many bastards or even one armed SUV. Find the best tactic that suits you and with time you could make 100 000 points to win the game!
+&nbsp;&nbsp;&nbsp;&nbsp;The game is called Save Ukraine and the story of the game is very topical. Unidentified horde of armed green men suddenly attacked a cozy Ukrainian house (or "khata" in local). The inhabitants were not ready for such events and the only weapon to defend their homeland they had was just a crop of old pumpkins. Nevertheless, a good and precise hit of such "shell" can neutralize few of those green bastards or even an armored truck.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**B**y the way the developers of the game are from nowadays flashpoints of Ukraine - Slovyansk, Gorlovka and Donetsk.
+&nbsp;&nbsp;&nbsp;&nbsp;By the way all developers of the game are indigenous inhabitants of Donbass. I am from Slavyansk, friends are from Donetsk and Horlivka and we've made the game on pure enthusiasm and making it we've had some goals:
 
-&nbsp;&nbsp;&nbsp;&nbsp;**C**urrently, the game is available for android devices. You can download it for free on Google Play: [https://play.google.com/store/apps/details?id=com.xdapps.su](https://play.google.com/store/apps/details?id=com.xdapps.su)
+&nbsp;&nbsp;&nbsp;&nbsp;First, the goal was to make an interesting game, where you can enjoy every hit on the face of the occupant.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**P**.S. Help us to share this game and this message among your friends and other people, so that each and every American, European, Japanese people, every man in the world could see and feel on his own what really happens in Ukraine.
+&nbsp;&nbsp;&nbsp;&nbsp;Second, we want to emphasize that Ukraine is united, from West to East.
 
-&nbsp;&nbsp;&nbsp;&nbsp;**T**he text in different languages can be found on game site: [http://saveukraine.github.io](http://saveukraine.github.io)
+&nbsp;&nbsp;&nbsp;&nbsp;And third, we want that every citizen of other countries could have a simple and clear representation of what is really going on here on the screen of his smartphone or tablet.
+
+&nbsp;&nbsp;&nbsp;&nbsp;At the moment you can play this game at your Android device by following this link: [https://play.google.com/store/apps/details?id=com.xdapps.su](https://play.google.com/store/apps/details?id=com.xdapps.su)
+
+&nbsp;&nbsp;&nbsp;&nbsp;And we need your support! Share this game and this message by reposting in your social medias or tell your friends!
+
+&nbsp;&nbsp;&nbsp;&nbsp;News updates are available at [http://saveukraine.github.io/](http://saveukraine.github.io/) as well as this text in different languages.
 
 <img src="{{ site.url }}/assets/screens/MainMenuEng.png" width="300" height="200">
 <img src="{{ site.url }}/assets/screens/ShotEng.png" width="300" height="200">
