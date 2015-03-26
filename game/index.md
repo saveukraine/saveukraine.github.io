@@ -5,18 +5,17 @@ title: Save Ukraine
 {% include JB/setup %}
 
 
-
-		<script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
-		<script type="text/javascript">
-		<!--
+<script type='text/javascript' src='https://ssl-webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/jquery.min.js'></script>
+<script type="text/javascript">
+		
 		var unityObjectUrl = "http://webplayer.unity3d.com/download_webplayer-3.x/3.0/uo/UnityObject2.js";
 		if (document.location.protocol == 'https:')
 			unityObjectUrl = unityObjectUrl.replace("http://", "https://ssl-");
 		document.write('<script type="text\/javascript" src="' + unityObjectUrl + '"><\/script>');
-		-->
-		</script>
-		<script type="text/javascript">
-		<!--
+		
+</script>
+<script type="text/javascript">
+		
 			var config = {
 				width: 480, 
 				height: 640,
@@ -61,8 +60,12 @@ title: Save Ukraine
 				});
 				u.initPlugin(jQuery("#unityPlayer")[0], "web.unity3d");
 			});
-		-->
-		</script>
-
-
-
+		
+</script>
+<div id="unityPlayer">
+	<div class="missing">
+					<a href="http://unity3d.com/webplayer/" title="Unity Web Player. Install now!">
+						<img alt="Unity Web Player. Install now!" src="http://webplayer.unity3d.com/installation/getunity.png" width="193" height="63" />
+					</a>
+	</div>
+</div>
