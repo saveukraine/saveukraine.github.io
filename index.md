@@ -8,7 +8,8 @@ title: Save Ukraine
 
 #Save Ukraine
 
-<!--<img src="{{ site.url }}/assets/SmallIcon.png" width="50" height="50">-->
+<img src="{{ site.url }}/assets/screens/MainMenuUkr.png" width="300" height="200">
+<img src="{{ site.url }}/assets/screens/ShotUkr.png" width="300" height="200">
 
 ---
 
